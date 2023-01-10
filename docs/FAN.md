@@ -194,3 +194,9 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code | Supported Models | Controller |
 | ------------- | -------------------------- | ------------- |
 [1220](../codes/fan/1220.json)|C56-RW5|Broadlink
+
+#### Hatari
+
+| Code | Supported Models | Controller |
+| ------------- | -------------------------- | ------------- |
+|HF-P16R1, HF-P18R1|Broadlink
