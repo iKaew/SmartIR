@@ -1,0 +1,20 @@
+{
+   "manufacturer":"Hatari",
+   "supportedModels":[
+      "HD-P16R3", 
+      "HF-P18R1", 
+      "HF-W16R4", 
+      "HF-W18R1"
+   ],
+   "supportedController":"Broadlink",
+   "commandsEncoding":"Base64",
+   "speed":[
+      "increase"
+   ],
+   "commands":{
+      "off":"JgCAAAABKZITEhQ2ExIUEBUQFBIUEBUQFDUVERM2FTUVNRI4EzcTNhI4EhMSExITEjgSEhMSEhQRExI4EjgROBMSFTUSOBI4EQAFHQABJ0sTAAxOAAEnShMADE4AASdKFAAMTQABKUgUAAxMAAEpSRQADEsAASpIFAAMTAABKUgUAA0FAAAAAAAAAAA=",
+      "default":{
+         "increase":"JgBgAAABKJMTExE4ExISExITEhMSExITEjgSEhM4ETgSOBI4EjgUNRM3EhMUNhI4ERQTERUQEhQTERU1FBEUERI3FTYTNhI4FAAFGwABKEoRAAxRAAEnShIADFAAASlIEgANBQAAAAAAAAAA"
+      }
+   }
+}
