@@ -199,4 +199,4 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 
 | Code | Supported Models | Controller |
 | ------------- | -------------------------- | ------------- |
-[1240](../codes/fan/1240.json)|HF-P16R1, HF-P18R1|Broadlink
+[1240](../codes/fan/1240.json)|HD-P16R3, HF-P18R1, HF-W16R4, HF-W18R1|Broadlink
