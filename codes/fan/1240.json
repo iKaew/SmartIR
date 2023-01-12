@@ -9,7 +9,9 @@
    "supportedController":"Broadlink",
    "commandsEncoding":"Base64",
    "speed":[
-      "increase"
+      "low",
+      "medium",
+      "high"
    ],
    "commands":{
       "off":"JgCAAAABKZITEhQ2ExIUEBUQFBIUEBUQFDUVERM2FTUVNRI4EzcTNhI4EhMSExITEjgSEhMSEhQRExI4EjgROBMSFTUSOBI4EQAFHQABJ0sTAAxOAAEnShMADE4AASdKFAAMTQABKUgUAAxMAAEpSRQADEsAASpIFAAMTAABKUgUAA0FAAAAAAAAAAA=",
